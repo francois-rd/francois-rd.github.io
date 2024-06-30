@@ -1,0 +1,7 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=uiA5W-YAAAAJ&hl=en
+  - title: "CV"
+    url: /francois-rd-cv.pdf
