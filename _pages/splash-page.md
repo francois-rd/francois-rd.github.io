@@ -93,7 +93,7 @@ feature_row1:
     btn_class: "btn--primary"
 ---
 
-# Selected Projects and Papers
+# Selected Research and Projects
 <hr style="margin-bottom: 2em;">
 
 {% include feature_row id="feature_row5" type="left" %}
