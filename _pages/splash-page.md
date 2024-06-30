@@ -6,6 +6,7 @@ date: 2024-06-27T11:59:59-04:00
 header:
   overlay_filter: linear-gradient(rgba(64, 0, 0, 0.5), rgba(0, 64, 64, 0.5))
   overlay_image: /assets/images/splash-banner.jpg
+  og_image: /assets/images/bio-photo.jpg
   actions:
     - label: "About Me"
       url: "/about/"
