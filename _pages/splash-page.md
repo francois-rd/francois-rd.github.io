@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/splash-banner.jpg
   og_image: /assets/images/bio-photo.jpg
   actions:
-    - label: "About Me"
+    - label: 'Learn More About Me&nbsp;&nbsp;&nbsp;<i class="fas fa-fw fa-arrow-right"></i>'
       url: "/about/"
   caption: "Photo: [<b>Sebastian Kanczok</b>](https://unsplash.com/photos/round-orange-light-effects-q_lEm5iDLYQ)"
 excerpt: >
@@ -106,3 +106,8 @@ feature_row1:
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row1" type="left" %}
+
+# [About Me](/about/)
+# [Publications](https://scholar.google.com/citations?user=uiA5W-YAAAAJ&hl=en)
+# [Resume and CV](/francois-rd-cv.pdf)
+
