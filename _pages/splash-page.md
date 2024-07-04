@@ -13,6 +13,21 @@ header:
   caption: "Photo: [<b>Sebastian Kanczok</b>](https://unsplash.com/photos/round-orange-light-effects-q_lEm5iDLYQ)"
 excerpt: >
   <img src="/assets/images/bio-photo.jpg" alt="Francois Roewer-Despres" style="margin-bottom: 10px; max-width: 150px; border-radius: 50%; border: 5px solid rgb(242, 243, 243);"><br>I'm a PhD candidate at the University of Toronto researching ***reasoning***, ***grounding***, and ***safety*** in large language models.
+feature_row6:
+  - image_path: /assets/images/cardio-og.jpg
+    image_caption: "Photo: [<b>National Cancer Institute</b>](https://unsplash.com/photos/person-sitting-while-using-laptop-computer-and-green-stethoscope-near-NFvdKIhxYlU)"
+    alt: "Cardiovascular patient readmission risk assessment tool"
+    title: "Predicting Cardiovascular Readmission Risk from Doctor-Patient Conversation"
+    excerpt: |
+      In this project, we seek to predict outcomes of clinical interest, such as 30-day readmission risk or death, from transcripts of recorded doctor-patient interviews and associated structured electronic medical record data using state-of-the-art large language models.
+
+      The key goals of the project are to:
+       * Build AI-based prediction models for each outcome of interest.
+       * Validate the accuracy and effectiveness of the built models, and compare them against more traditional methods.
+       * Present a framework for the implementation and deployment of the models in a clinical setting as a means of providing clinical decision support.
+    url: "/cardio/"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 feature_row5:
   - image_path: /assets/images/accord-logo.png
     alt: "ACCORD Logo"
@@ -97,6 +112,8 @@ feature_row1:
 # Selected Research and Projects
 <hr style="margin-bottom: 2em;">
 
+{% include feature_row id="feature_row6" type="left" %}
+
 {% include feature_row id="feature_row5" type="left" %}
 
 {% include feature_row id="feature_row4" type="left" %}
@@ -110,4 +127,3 @@ feature_row1:
 # [About Me](/about/)
 # [Publications](https://scholar.google.com/citations?user=uiA5W-YAAAAJ&hl=en)
 # [Resume and CV](/francois-rd-cv.pdf)
-
