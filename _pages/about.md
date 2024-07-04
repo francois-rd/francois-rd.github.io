@@ -14,7 +14,7 @@ I'm a graduate researcher at the [Vector Institute](https://vectorinstitute.ai/)
 
 ## Research
 
-Broadly, the theme of my graduate research is to improve the **reliability and safety** of large language models (LLMs). I'm passionately concerned about the **societal implication** and safe deployment of LLMs in real-world applications. In the long run, I'd like to see a world empowered with **safe and trustworthy AIs** that collaborate symbiotically with people.
+Broadly, the theme of my graduate research is to improve the **reliability and safety** of large language models (LLMs). I'm passionately concerned about the **societal implication** and safe deployment of LLMs in high-stakes application domains, such as healthcare. In the long run, I'd like to see a world empowered with **safe and trustworthy AIs** that collaborate symbiotically with people.
 
 In the short term, I'm passionately working towards improving the **grounding** and **reasoning** abilities of LLMs. Specifically, how do we ensure LLMs' understanding of the world is *grounded* in facts and data, rather than so-called [hallucinations](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence))? Futhermore, how do we ensure LLMs are carefully and correctly *reasoning* through these facts and data, rather than making spurious correlations and coming to faulty conclusions?
 
