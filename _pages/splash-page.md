@@ -128,4 +128,5 @@ feature_row1:
 
 # [About Me](/about/)
 # [Publications](https://scholar.google.com/citations?user=uiA5W-YAAAAJ&hl=en)
-# [Resume and CV](/francois-rd-cv.pdf)
+# [Resume](/francois-rd-resume.pdf)
+# [Full CV](/francois-rd-cv.pdf)
