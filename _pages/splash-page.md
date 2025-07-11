@@ -33,6 +33,8 @@ feature_row5:
     alt: "ACCORD Logo"
     title: "<i>ACCORD</i>: Closing the Commonsense Measurability Gap"
     excerpt: |
+      Received **Outstanding Paper Award** at NAACL 2025.
+
       *ACCORD* is a scalable framework and benchmark suite for disentangling the commonsense grounding and reasoning abilities of **large language models** (LLMs) through controlled, multi-hop counterfactuals.
 
       Uniquely, *ACCORD* can automatically generate benchmarks of arbitrary reasoning complexity, and so it **scales with LLM capabilities**.
@@ -40,7 +42,7 @@ feature_row5:
       State-of-the-art LLMs &mdash; GPT-4o, Mixtral-8x22B, Llama-3-70B &mdash; perform no better than random chance on *ACCORD* after only moderate scaling, indicating a need for substantial improvement in LLMs' commonsense reasoning ability.
       
       [<i class="fab fa-fw fa-github"></i>](https://github.com/francois-rd/accord/)
-      [<i class="fa-solid fa-book"></i>](https://arxiv.org/abs/2406.02804)
+      [<i class="fa-solid fa-book"></i>](https://aclanthology.org/2025.naacl-long.193.pdf)
       [<i class="fas fa-download"></i>](https://www.codabench.org/competitions/3160/)
     url: "/accord/"
     btn_label: "Read More"
