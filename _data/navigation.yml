@@ -5,5 +5,7 @@ main:
     url: /#selected-research-and-projects
   - title: "Publications"
     url: https://scholar.google.com/citations?user=uiA5W-YAAAAJ&hl=en
+  - title: "Resume"
+    url: /francois-rd-resume.pdf
   - title: "CV"
     url: /francois-rd-cv.pdf
